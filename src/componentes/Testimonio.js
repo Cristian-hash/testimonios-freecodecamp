@@ -1,6 +1,6 @@
 import React from "react";
 
-function Testimio() {
+function Testimonio() {
   return (
     <div className="contenedor-testimonio">
       <img
@@ -22,3 +22,5 @@ function Testimio() {
     </div>
   );
 }
+
+export default Testimonio;
